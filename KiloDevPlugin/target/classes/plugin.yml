@@ -1,0 +1,4 @@
+name: KiloDevPlugin
+version: '1.0-SNAPSHOT'
+main: br.com.kilodevplugin.KiloDevPlugin
+api-version: '1.18'
